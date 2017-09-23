@@ -1,2 +1,5 @@
 .vscode/
 node-red-volume
+venv/
+realtime_data/web_server/venv/
+node_modules/

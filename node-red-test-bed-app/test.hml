@@ -1,0 +1,23 @@
+<!doctype html>
+
+<head>
+    <title>A Node RED Example</title>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js"></script>
+</head>
+<html>
+<div id="chart-example" style="height: 250px;"></div>
+<script>
+    Morris.Donut({
+        element: 'chart-example',
+        data: [
+            { label: "Temperature(Celcius) ", value: {{payload.tempc }} },
+            { label: "Humidity", value: {{payload.humidity }} },
+            { label: "Wind Speed (knts) ", value: {{payload.windspeed }} }
+        ]
+           });
+</script>
+
+</html>
