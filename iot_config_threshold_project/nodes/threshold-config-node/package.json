@@ -1,0 +1,11 @@
+{
+  "name": "threshold_config",
+  "version": "1.0.0",
+  "description": "Threshold Config Node for IoT Project 1",
+  "main": "threshold-config-in.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ha Minh Cong",
+  "license": "ISC"
+}
