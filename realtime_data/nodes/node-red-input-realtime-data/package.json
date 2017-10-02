@@ -18,10 +18,10 @@
         "input"
     ],
     "main": "none",
-    "name": "node-red-input-real-time-data",
+    "name": "node-red-contrib-input-real-time-data",
     "node-red": {
         "nodes": {
-            "node-red-real-time-data": "input-real-time-data.js"
+            "real-time-input": "input-real-time-data.js"
         }
     }
 }

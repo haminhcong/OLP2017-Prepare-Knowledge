@@ -1,0 +1,623 @@
+1506899783: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506900185: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506900185: Config loaded from /mosquitto/config/mosquitto.conf.
+1506900185: Opening ipv4 listen socket on port 1883.
+1506900185: Opening ipv6 listen socket on port 1883.
+1506901038: New connection from 172.17.0.1 on port 1883.
+1506901039: Socket error on client <unknown>, disconnecting.
+1506901049: New connection from 172.17.0.1 on port 1883.
+1506901825: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506901825: Config loaded from /mosquitto/config/mosquitto.conf.
+1506901825: Error: Unable to open pwfile "/mosquitto/config/passwords.txt ".
+1506901825: Error opening password file "/mosquitto/config/passwords.txt ".
+1506901848: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506901848: Config loaded from /mosquitto/config/mosquitto.conf.
+1506901848: Error: Unable to open pwfile "/mosquitto/config/passwords.txt ".
+1506901848: Error opening password file "/mosquitto/config/passwords.txt ".
+1506901884: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506901884: Config loaded from /mosquitto/config/mosquitto.conf.
+1506901884: Error: Unable to open pwfile "/mosquitto/config/passwords.txt ".
+1506901884: Error opening password file "/mosquitto/config/passwords.txt ".
+1506901906: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506901906: Config loaded from /mosquitto/config/mosquitto.conf.
+1506901906: Error: Unable to open pwfile "/mosquitto/config/passwords.txt ".
+1506901906: Error opening password file "/mosquitto/config/passwords.txt ".
+1506901925: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506902048: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506902048: Config loaded from /mosquitto/config/mosquitto.conf.
+1506902048: Error: Unable to open pwfile "/mosquitto/config/passwords.txt ".
+1506902048: Error opening password file "/mosquitto/config/passwords.txt ".
+1506902162: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506902162: Config loaded from /mosquitto/config/mosquitto.conf.
+1506902162: Opening ipv4 listen socket on port 1883.
+1506902162: Opening ipv6 listen socket on port 1883.
+1506902196: Error in poll: Interrupted system call.
+1506902196: mosquitto version 1.4.12 terminating
+1506902205: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506902205: Config loaded from /mosquitto/config/mosquitto.conf.
+1506902205: Error: Unable to open pwfile "/mosquitto/config/passwords.txt ".
+1506902205: Error opening password file "/mosquitto/config/passwords.txt ".
+1506902232: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506902232: Config loaded from /mosquitto/config/mosquitto.conf.
+1506902232: Opening ipv4 listen socket on port 1883.
+1506902232: Opening ipv6 listen socket on port 1883.
+1506902579: New connection from 172.17.0.1 on port 1883.
+1506902579: Socket error on client <unknown>, disconnecting.
+1506902580: New connection from 172.17.0.1 on port 1883.
+1506902580: Socket error on client <unknown>, disconnecting.
+1506902582: New connection from 172.17.0.1 on port 1883.
+1506902582: Socket error on client <unknown>, disconnecting.
+1506902583: New connection from 172.17.0.1 on port 1883.
+1506902583: Socket error on client <unknown>, disconnecting.
+1506902585: New connection from 172.17.0.1 on port 1883.
+1506902585: Socket error on client <unknown>, disconnecting.
+1506902602: New connection from 172.17.0.1 on port 1883.
+1506902602: Socket error on client <unknown>, disconnecting.
+1506902603: New connection from 172.17.0.1 on port 1883.
+1506902603: Socket error on client <unknown>, disconnecting.
+1506902605: New connection from 172.17.0.1 on port 1883.
+1506902605: Socket error on client <unknown>, disconnecting.
+1506902606: New connection from 172.17.0.1 on port 1883.
+1506902606: Socket error on client <unknown>, disconnecting.
+1506902608: New connection from 172.17.0.1 on port 1883.
+1506902608: Socket error on client <unknown>, disconnecting.
+1506902624: New connection from 172.17.0.1 on port 1883.
+1506902624: New client connected from 172.17.0.1 as Python1 (c1, k60, u'admin').
+1506902627: Client Python1 disconnected.
+1506902627: New connection from 172.17.0.1 on port 1883.
+1506902627: Socket error on client <unknown>, disconnecting.
+1506902628: New connection from 172.17.0.1 on port 1883.
+1506902628: Socket error on client <unknown>, disconnecting.
+1506902630: New connection from 172.17.0.1 on port 1883.
+1506902630: Socket error on client <unknown>, disconnecting.
+1506904036: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506904375: Error in poll: Interrupted system call.
+1506904375: mosquitto version 1.4.12 terminating
+1506918065: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506918065: Config loaded from /mosquitto/config/mosquitto.conf.
+1506918065: Opening ipv4 listen socket on port 1883.
+1506918065: Opening ipv6 listen socket on port 1883.
+1506918130: New connection from 172.17.0.1 on port 1883.
+1506918130: New client connected from 172.17.0.1 as lens_XMEfc0eTkXiT9XPUMhUFhgQObXo (c1, k120, u'admin').
+1506918267: New connection from 172.17.0.1 on port 1883.
+1506918267: New client connected from 172.17.0.1 as Python1 (c1, k60, u'admin').
+1506918270: Client Python1 disconnected.
+1506918270: New connection from 172.17.0.1 on port 1883.
+1506918270: Socket error on client <unknown>, disconnecting.
+1506918271: New connection from 172.17.0.1 on port 1883.
+1506918271: Socket error on client <unknown>, disconnecting.
+1506918273: New connection from 172.17.0.1 on port 1883.
+1506918273: Socket error on client <unknown>, disconnecting.
+1506918402: Socket error on client lens_XMEfc0eTkXiT9XPUMhUFhgQObXo, disconnecting.
+1506918484: New connection from 172.17.0.1 on port 1883.
+1506918484: New client connected from 172.17.0.1 as 4f654017-34e0-44d7-b759-ece6ebf1424d1506918484861 (c1, k10, u'admin').
+1506918783: Socket error on client 4f654017-34e0-44d7-b759-ece6ebf1424d1506918484861, disconnecting.
+1506918800: New connection from 172.17.0.1 on port 1883.
+1506918800: New client connected from 172.17.0.1 as Python1 (c1, k60, u'admin').
+1506918803: Client Python1 disconnected.
+1506918803: New connection from 172.17.0.1 on port 1883.
+1506918803: Socket error on client <unknown>, disconnecting.
+1506918804: New connection from 172.17.0.1 on port 1883.
+1506918804: Socket error on client <unknown>, disconnecting.
+1506918806: New connection from 172.17.0.1 on port 1883.
+1506918806: Socket error on client <unknown>, disconnecting.
+1506919595: New connection from 172.17.0.1 on port 1883.
+1506919595: New client connected from 172.17.0.1 as 4f654017-34e0-44d7-b759-ece6ebf1424d1506919595771 (c1, k10, u'admin').
+1506919866: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506921667: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506923468: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506925269: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506927070: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506928433: New connection from 172.17.0.1 on port 1883.
+1506928433: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506928436: Socket error on client iot_device_simulator, disconnecting.
+1506928446: New connection from 172.17.0.1 on port 1883.
+1506928446: Socket error on client <unknown>, disconnecting.
+1506928447: New connection from 172.17.0.1 on port 1883.
+1506928447: Socket error on client <unknown>, disconnecting.
+1506928464: New connection from 172.17.0.1 on port 1883.
+1506928464: Socket error on client <unknown>, disconnecting.
+1506928483: New connection from 172.17.0.1 on port 1883.
+1506928483: Socket error on client <unknown>, disconnecting.
+1506928495: New connection from 172.17.0.1 on port 1883.
+1506928495: Socket error on client <unknown>, disconnecting.
+1506928503: New connection from 172.17.0.1 on port 1883.
+1506928503: Socket error on client <unknown>, disconnecting.
+1506928507: New connection from 172.17.0.1 on port 1883.
+1506928507: Socket error on client <unknown>, disconnecting.
+1506928871: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506929333: New connection from 172.17.0.1 on port 1883.
+1506929333: Socket error on client <unknown>, disconnecting.
+1506929334: New connection from 172.17.0.1 on port 1883.
+1506929334: Socket error on client <unknown>, disconnecting.
+1506929350: New connection from 172.17.0.1 on port 1883.
+1506929350: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506929353: Socket error on client iot_device_simulator, disconnecting.
+1506930209: New connection from 172.17.0.1 on port 1883.
+1506930209: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506930234: Socket error on client iot_device_simulator, disconnecting.
+1506930235: New connection from 172.17.0.1 on port 1883.
+1506930235: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506930240: Client iot_device_simulator disconnected.
+1506930254: New connection from 172.17.0.1 on port 1883.
+1506930254: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506930263: Client iot_device_simulator disconnected.
+1506930276: New connection from 172.17.0.1 on port 1883.
+1506930276: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506930292: Socket error on client iot_device_simulator, disconnecting.
+1506930301: New connection from 172.17.0.1 on port 1883.
+1506930301: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506930314: Client iot_device_simulator disconnected.
+1506937770: Socket error on client 4f654017-34e0-44d7-b759-ece6ebf1424d1506919595771, disconnecting.
+1506937974: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506939775: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506941576: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506943377: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506945178: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506945702: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1506945702: Config loaded from /mosquitto/config/mosquitto.conf.
+1506945702: Opening ipv4 listen socket on port 1883.
+1506945702: Opening ipv6 listen socket on port 1883.
+1506945856: New connection from 172.17.0.3 on port 1883.
+1506945856: Socket error on client <unknown>, disconnecting.
+1506945873: New connection from 172.17.0.3 on port 1883.
+1506945873: Socket error on client <unknown>, disconnecting.
+1506945893: New connection from 172.17.0.3 on port 1883.
+1506945893: Socket error on client <unknown>, disconnecting.
+1506945906: New connection from 172.17.0.3 on port 1883.
+1506945906: New client connected from 172.17.0.3 as mqtt_79b1f6eb.8d8788 (c1, k60, u'admin').
+1506945929: New connection from 172.17.0.1 on port 1883.
+1506945929: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506945939: Client iot_device_simulator disconnected.
+1506946167: New connection from 172.17.0.1 on port 1883.
+1506946167: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506946269: Client iot_device_simulator disconnected.
+1506946408: Client mqtt_79b1f6eb.8d8788 disconnected.
+1506946422: New connection from 172.17.0.3 on port 1883.
+1506946422: New client connected from 172.17.0.3 as mqtt_6c49a83a.85fa18 (c1, k60, u'admin').
+1506947503: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506948111: Client mqtt_6c49a83a.85fa18 disconnected.
+1506948111: New connection from 172.17.0.3 on port 1883.
+1506948111: New client connected from 172.17.0.3 as mqtt_d7f7a6a8.673d28 (c1, k60, u'admin').
+1506948120: New connection from 172.17.0.1 on port 1883.
+1506948120: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506948222: Client iot_device_simulator disconnected.
+1506949303: Socket error on client mqtt_d7f7a6a8.673d28, disconnecting.
+1506949304: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506949309: New connection from 172.17.0.3 on port 1883.
+1506949309: New client connected from 172.17.0.3 as mqtt_baec0011.39836 (c1, k60, u'admin').
+1506949389: Client mqtt_baec0011.39836 disconnected.
+1506949389: New connection from 172.17.0.3 on port 1883.
+1506949389: New client connected from 172.17.0.3 as mqtt_74236ca5.efad34 (c1, k60, u'admin').
+1506949394: Client mqtt_74236ca5.efad34 disconnected.
+1506949394: New connection from 172.17.0.3 on port 1883.
+1506949394: New client connected from 172.17.0.3 as mqtt_b8d93f0a.8411 (c1, k60, u'admin').
+1506949400: New connection from 172.17.0.1 on port 1883.
+1506949400: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506949492: Socket error on client mqtt_b8d93f0a.8411, disconnecting.
+1506949495: New connection from 172.17.0.3 on port 1883.
+1506949495: New client connected from 172.17.0.3 as mqtt_d24d83c6.eceba (c1, k60, u'admin').
+1506949502: Client iot_device_simulator disconnected.
+1506949522: New connection from 172.17.0.1 on port 1883.
+1506949522: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506949535: Client iot_device_simulator disconnected.
+1506949549: Client mqtt_d24d83c6.eceba disconnected.
+1506949549: New connection from 172.17.0.3 on port 1883.
+1506949549: New client connected from 172.17.0.3 as mqtt_80286742.f945e8 (c1, k60, u'admin').
+1506953782: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506954981: Socket error on client mqtt_80286742.f945e8, disconnecting.
+1506954985: New connection from 172.17.0.3 on port 1883.
+1506954985: New client connected from 172.17.0.3 as mqtt_8b00ae90.741c2 (c1, k60, u'admin').
+1506955001: Socket error on client mqtt_8b00ae90.741c2, disconnecting.
+1506955005: New connection from 172.17.0.3 on port 1883.
+1506955005: New client connected from 172.17.0.3 as mqtt_fce6fb28.36e188 (c1, k60, u'admin').
+1506955584: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506956031: Socket error on client mqtt_fce6fb28.36e188, disconnecting.
+1506956034: New connection from 172.17.0.3 on port 1883.
+1506956034: New client connected from 172.17.0.3 as mqtt_c02890e5.fa2cb (c1, k60, u'admin').
+1506956313: Socket error on client mqtt_c02890e5.fa2cb, disconnecting.
+1506956317: New connection from 172.17.0.3 on port 1883.
+1506956317: New client connected from 172.17.0.3 as mqtt_dc06cb6e.2694e8 (c1, k60, u'admin').
+1506956398: Socket error on client mqtt_dc06cb6e.2694e8, disconnecting.
+1506956402: New connection from 172.17.0.3 on port 1883.
+1506956402: New client connected from 172.17.0.3 as mqtt_ce86582d.866b88 (c1, k60, u'admin').
+1506956473: Socket error on client mqtt_ce86582d.866b88, disconnecting.
+1506956477: New connection from 172.17.0.3 on port 1883.
+1506956477: New client connected from 172.17.0.3 as mqtt_c181f598.ef04a8 (c1, k60, u'admin').
+1506956526: Socket error on client mqtt_c181f598.ef04a8, disconnecting.
+1506956529: New connection from 172.17.0.3 on port 1883.
+1506956529: New client connected from 172.17.0.3 as mqtt_fe7039a7.5d96e8 (c1, k60, u'admin').
+1506956628: Socket error on client mqtt_fe7039a7.5d96e8, disconnecting.
+1506956631: New connection from 172.17.0.3 on port 1883.
+1506956631: New client connected from 172.17.0.3 as mqtt_f5cf71e2.3b1e3 (c1, k60, u'admin').
+1506956719: Socket error on client mqtt_f5cf71e2.3b1e3, disconnecting.
+1506956723: New connection from 172.17.0.3 on port 1883.
+1506956723: New client connected from 172.17.0.3 as mqtt_26190303.9a4d5c (c1, k60, u'admin').
+1506956917: Socket error on client mqtt_26190303.9a4d5c, disconnecting.
+1506956921: New connection from 172.17.0.3 on port 1883.
+1506956921: New client connected from 172.17.0.3 as mqtt_ab77e18.245012 (c1, k60, u'admin').
+1506956997: Socket error on client mqtt_ab77e18.245012, disconnecting.
+1506957001: New connection from 172.17.0.3 on port 1883.
+1506957001: New client connected from 172.17.0.3 as mqtt_6ddc1b0e.cab244 (c1, k60, u'admin').
+1506957037: Socket error on client mqtt_6ddc1b0e.cab244, disconnecting.
+1506957040: New connection from 172.17.0.3 on port 1883.
+1506957040: New client connected from 172.17.0.3 as mqtt_baf9760d.f983b8 (c1, k60, u'admin').
+1506957079: Client mqtt_baf9760d.f983b8 disconnected.
+1506957079: New connection from 172.17.0.3 on port 1883.
+1506957079: New client connected from 172.17.0.3 as mqtt_c7577557.ad28e8 (c1, k60, u'admin').
+1506957165: Client mqtt_c7577557.ad28e8 disconnected.
+1506957165: New connection from 172.17.0.3 on port 1883.
+1506957165: New client connected from 172.17.0.3 as mqtt_9ac8f796.73f948 (c1, k60, u'admin').
+1506957194: Socket error on client mqtt_9ac8f796.73f948, disconnecting.
+1506957197: New connection from 172.17.0.3 on port 1883.
+1506957197: New client connected from 172.17.0.3 as mqtt_75588fa0.d4c35 (c1, k60, u'admin').
+1506957222: Client mqtt_75588fa0.d4c35 disconnected.
+1506957222: New connection from 172.17.0.3 on port 1883.
+1506957222: New client connected from 172.17.0.3 as mqtt_c7b7e7bd.a8d618 (c1, k60, u'admin').
+1506957385: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506959186: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506960987: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506962788: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506964589: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506966390: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506968191: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506969992: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506971793: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506973594: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506975395: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506977196: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506978997: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506978999: Socket error on client mqtt_c7b7e7bd.a8d618, disconnecting.
+1506979003: New connection from 172.17.0.3 on port 1883.
+1506979003: New client connected from 172.17.0.3 as mqtt_aaa3644d.2df758 (c1, k60, u'admin').
+1506979152: Socket error on client mqtt_aaa3644d.2df758, disconnecting.
+1506979156: New connection from 172.17.0.3 on port 1883.
+1506979156: New client connected from 172.17.0.3 as mqtt_23540aec.f37046 (c1, k60, u'admin').
+1506979186: Socket error on client mqtt_23540aec.f37046, disconnecting.
+1506979190: New connection from 172.17.0.3 on port 1883.
+1506979190: New client connected from 172.17.0.3 as mqtt_3f611199.97c69e (c1, k60, u'admin').
+1506979275: Socket error on client mqtt_3f611199.97c69e, disconnecting.
+1506979278: New connection from 172.17.0.3 on port 1883.
+1506979278: New client connected from 172.17.0.3 as mqtt_c37212c7.8e84 (c1, k60, u'admin').
+1506979287: Socket error on client mqtt_c37212c7.8e84, disconnecting.
+1506979290: New connection from 172.17.0.3 on port 1883.
+1506979290: New client connected from 172.17.0.3 as mqtt_8375d0a2.3b98 (c1, k60, u'admin').
+1506979545: Socket error on client mqtt_8375d0a2.3b98, disconnecting.
+1506979548: New connection from 172.17.0.3 on port 1883.
+1506979548: New client connected from 172.17.0.3 as mqtt_6fdf6953.608898 (c1, k60, u'admin').
+1506979555: Client mqtt_6fdf6953.608898 disconnected.
+1506979555: New connection from 172.17.0.3 on port 1883.
+1506979555: New client connected from 172.17.0.3 as mqtt_3fb54474.4422bc (c1, k60, u'admin').
+1506979655: Socket error on client mqtt_3fb54474.4422bc, disconnecting.
+1506979658: New connection from 172.17.0.3 on port 1883.
+1506979658: New client connected from 172.17.0.3 as mqtt_73015091.48761 (c1, k60, u'admin').
+1506979660: Client mqtt_73015091.48761 disconnected.
+1506979660: New connection from 172.17.0.3 on port 1883.
+1506979660: New client connected from 172.17.0.3 as mqtt_a5cf7351.b4824 (c1, k60, u'admin').
+1506980003: Socket error on client mqtt_a5cf7351.b4824, disconnecting.
+1506980006: New connection from 172.17.0.3 on port 1883.
+1506980006: New client connected from 172.17.0.3 as mqtt_f25af2cc.781db (c1, k60, u'admin').
+1506980085: Socket error on client mqtt_f25af2cc.781db, disconnecting.
+1506980088: New connection from 172.17.0.3 on port 1883.
+1506980088: New client connected from 172.17.0.3 as mqtt_80c8f668.dc2fb8 (c1, k60, u'admin').
+1506980153: Socket error on client mqtt_80c8f668.dc2fb8, disconnecting.
+1506980157: New connection from 172.17.0.3 on port 1883.
+1506980157: New client connected from 172.17.0.3 as mqtt_92e0003.fca35 (c1, k60, u'admin').
+1506980163: Socket error on client mqtt_92e0003.fca35, disconnecting.
+1506980166: New connection from 172.17.0.3 on port 1883.
+1506980166: New client connected from 172.17.0.3 as mqtt_b9fd3e2b.7ce76 (c1, k60, u'admin').
+1506980514: Socket error on client mqtt_b9fd3e2b.7ce76, disconnecting.
+1506980517: New connection from 172.17.0.3 on port 1883.
+1506980517: New client connected from 172.17.0.3 as mqtt_e27690d7.e380e (c1, k60, u'admin').
+1506980602: Client mqtt_e27690d7.e380e disconnected.
+1506980602: New connection from 172.17.0.3 on port 1883.
+1506980602: New client connected from 172.17.0.3 as mqtt_c7b72a4b.5d0478 (c1, k60, u'admin').
+1506980610: Client mqtt_c7b72a4b.5d0478 disconnected.
+1506980610: New connection from 172.17.0.3 on port 1883.
+1506980610: New client connected from 172.17.0.3 as mqtt_8afd4c8a.cf844 (c1, k60, u'admin').
+1506980626: Client mqtt_8afd4c8a.cf844 disconnected.
+1506980626: New connection from 172.17.0.3 on port 1883.
+1506980626: New client connected from 172.17.0.3 as mqtt_fe03860c.56c1b8 (c1, k60, u'admin').
+1506980785: Socket error on client mqtt_fe03860c.56c1b8, disconnecting.
+1506980789: New connection from 172.17.0.3 on port 1883.
+1506980789: New client connected from 172.17.0.3 as mqtt_519bef61.5bebf (c1, k60, u'admin').
+1506980798: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506980947: Socket error on client mqtt_519bef61.5bebf, disconnecting.
+1506980951: New connection from 172.17.0.3 on port 1883.
+1506980951: New client connected from 172.17.0.3 as mqtt_42f73261.3985cc (c1, k60, u'admin').
+1506980967: Client mqtt_42f73261.3985cc disconnected.
+1506980967: New connection from 172.17.0.3 on port 1883.
+1506980967: New client connected from 172.17.0.3 as mqtt_aac118ee.21a658 (c1, k60, u'admin').
+1506980973: Client mqtt_aac118ee.21a658 disconnected.
+1506980973: New connection from 172.17.0.3 on port 1883.
+1506980973: New client connected from 172.17.0.3 as mqtt_5c232dca.88db94 (c1, k60, u'admin').
+1506980986: Client mqtt_5c232dca.88db94 disconnected.
+1506980986: New connection from 172.17.0.3 on port 1883.
+1506980986: New client connected from 172.17.0.3 as mqtt_8debcb8b.0a31a8 (c1, k60, u'admin').
+1506981029: Client mqtt_8debcb8b.0a31a8 disconnected.
+1506981029: New connection from 172.17.0.3 on port 1883.
+1506981029: New client connected from 172.17.0.3 as mqtt_9d363135.5c44 (c1, k60, u'admin').
+1506981154: Socket error on client mqtt_9d363135.5c44, disconnecting.
+1506981157: New connection from 172.17.0.3 on port 1883.
+1506981157: New client connected from 172.17.0.3 as mqtt_d8ac3599.d3c038 (c1, k60, u'admin').
+1506981171: Socket error on client mqtt_d8ac3599.d3c038, disconnecting.
+1506981174: New connection from 172.17.0.3 on port 1883.
+1506981174: New client connected from 172.17.0.3 as mqtt_a2941fbc.486b7 (c1, k60, u'admin').
+1506981239: Socket error on client mqtt_a2941fbc.486b7, disconnecting.
+1506981243: New connection from 172.17.0.3 on port 1883.
+1506981243: New client connected from 172.17.0.3 as mqtt_638f90e1.ab23f (c1, k60, u'admin').
+1506981268: Client mqtt_638f90e1.ab23f disconnected.
+1506981268: New connection from 172.17.0.3 on port 1883.
+1506981268: New client connected from 172.17.0.3 as mqtt_3f236026.a9b1f (c1, k60, u'admin').
+1506981301: Socket error on client mqtt_3f236026.a9b1f, disconnecting.
+1506981304: New connection from 172.17.0.3 on port 1883.
+1506981304: New client connected from 172.17.0.3 as mqtt_355f625a.05fcde (c1, k60, u'admin').
+1506981391: Socket error on client mqtt_355f625a.05fcde, disconnecting.
+1506981394: New connection from 172.17.0.3 on port 1883.
+1506981394: New client connected from 172.17.0.3 as mqtt_f54d10d4.e843c (c1, k60, u'admin').
+1506981474: Socket error on client mqtt_f54d10d4.e843c, disconnecting.
+1506981477: New connection from 172.17.0.3 on port 1883.
+1506981477: New client connected from 172.17.0.3 as mqtt_cecde0fd.ad5fe (c1, k60, u'admin').
+1506981545: Socket error on client mqtt_cecde0fd.ad5fe, disconnecting.
+1506981549: New connection from 172.17.0.3 on port 1883.
+1506981549: New client connected from 172.17.0.3 as mqtt_3f8d677d.5b9338 (c1, k60, u'admin').
+1506981663: Socket error on client mqtt_3f8d677d.5b9338, disconnecting.
+1506981667: New connection from 172.17.0.3 on port 1883.
+1506981667: New client connected from 172.17.0.3 as mqtt_f8dd262d.b8a628 (c1, k60, u'admin').
+1506981683: Client mqtt_f8dd262d.b8a628 disconnected.
+1506981683: New connection from 172.17.0.3 on port 1883.
+1506981683: New client connected from 172.17.0.3 as mqtt_5fe3ba3f.38cb94 (c1, k60, u'admin').
+1506981694: Client mqtt_5fe3ba3f.38cb94 disconnected.
+1506981694: New connection from 172.17.0.3 on port 1883.
+1506981694: New client connected from 172.17.0.3 as mqtt_124ec4c5.9c7d8b (c1, k60, u'admin').
+1506981706: Client mqtt_124ec4c5.9c7d8b disconnected.
+1506981706: New connection from 172.17.0.3 on port 1883.
+1506981706: New client connected from 172.17.0.3 as mqtt_be8b3367.47542 (c1, k60, u'admin').
+1506981734: Client mqtt_be8b3367.47542 disconnected.
+1506981734: New connection from 172.17.0.3 on port 1883.
+1506981734: New client connected from 172.17.0.3 as mqtt_4cdc97ad.9a5e58 (c1, k60, u'admin').
+1506981762: Client mqtt_4cdc97ad.9a5e58 disconnected.
+1506981762: New connection from 172.17.0.3 on port 1883.
+1506981762: New client connected from 172.17.0.3 as mqtt_e5159c90.337ca (c1, k60, u'admin').
+1506981982: Socket error on client mqtt_e5159c90.337ca, disconnecting.
+1506981985: New connection from 172.17.0.3 on port 1883.
+1506981985: New client connected from 172.17.0.3 as mqtt_d39a8860.99dc38 (c1, k60, u'admin').
+1506982004: Client mqtt_d39a8860.99dc38 disconnected.
+1506982004: New connection from 172.17.0.3 on port 1883.
+1506982004: New client connected from 172.17.0.3 as mqtt_a7834d0.51116b (c1, k60, u'admin').
+1506982010: New connection from 172.17.0.1 on port 1883.
+1506982010: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506982022: Client iot_device_simulator disconnected.
+1506982050: Client mqtt_a7834d0.51116b disconnected.
+1506982050: New connection from 172.17.0.3 on port 1883.
+1506982050: New client connected from 172.17.0.3 as mqtt_ded7c331.5da27 (c1, k60, u'admin').
+1506982058: New connection from 172.17.0.1 on port 1883.
+1506982058: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506982070: Client iot_device_simulator disconnected.
+1506982599: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506982866: Socket error on client mqtt_ded7c331.5da27, disconnecting.
+1506982869: New connection from 172.17.0.3 on port 1883.
+1506982869: New client connected from 172.17.0.3 as mqtt_fb80b3d2.12b9a (c1, k60, u'admin').
+1506982880: New connection from 172.17.0.1 on port 1883.
+1506982880: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506982929: Socket error on client mqtt_fb80b3d2.12b9a, disconnecting.
+1506982933: New connection from 172.17.0.3 on port 1883.
+1506982933: New client connected from 172.17.0.3 as mqtt_4f5e38bb.441368 (c1, k60, u'admin').
+1506982937: Socket error on client iot_device_simulator, disconnecting.
+1506982937: New connection from 172.17.0.1 on port 1883.
+1506982937: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506982946: Socket error on client mqtt_4f5e38bb.441368, disconnecting.
+1506982949: Client iot_device_simulator disconnected.
+1506982950: New connection from 172.17.0.3 on port 1883.
+1506982950: New client connected from 172.17.0.3 as mqtt_7ea9bed0.16563 (c1, k60, u'admin').
+1506982971: New connection from 172.17.0.1 on port 1883.
+1506982971: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506982983: Client iot_device_simulator disconnected.
+1506983225: Socket error on client mqtt_7ea9bed0.16563, disconnecting.
+1506983229: New connection from 172.17.0.3 on port 1883.
+1506983229: New client connected from 172.17.0.3 as mqtt_f876ac6c.f1bab (c1, k60, u'admin').
+1506983237: New connection from 172.17.0.1 on port 1883.
+1506983237: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506983247: Socket error on client mqtt_f876ac6c.f1bab, disconnecting.
+1506983250: Client iot_device_simulator disconnected.
+1506983250: New connection from 172.17.0.3 on port 1883.
+1506983250: New client connected from 172.17.0.3 as mqtt_4a60aae9.ac99a4 (c1, k60, u'admin').
+1506983291: Socket error on client mqtt_4a60aae9.ac99a4, disconnecting.
+1506983294: New connection from 172.17.0.3 on port 1883.
+1506983294: New client connected from 172.17.0.3 as mqtt_45836a2e.980984 (c1, k60, u'admin').
+1506983306: New connection from 172.17.0.1 on port 1883.
+1506983306: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506983318: Client iot_device_simulator disconnected.
+1506984099: Socket error on client mqtt_45836a2e.980984, disconnecting.
+1506984102: New connection from 172.17.0.3 on port 1883.
+1506984102: New client connected from 172.17.0.3 as mqtt_ac0c6854.c42828 (c1, k60, u'admin').
+1506984108: New connection from 172.17.0.1 on port 1883.
+1506984108: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984120: Client iot_device_simulator disconnected.
+1506984205: Socket error on client mqtt_ac0c6854.c42828, disconnecting.
+1506984208: New connection from 172.17.0.3 on port 1883.
+1506984208: New client connected from 172.17.0.3 as mqtt_89ae2309.750d5 (c1, k60, u'admin').
+1506984214: New connection from 172.17.0.1 on port 1883.
+1506984214: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984226: Client iot_device_simulator disconnected.
+1506984245: Socket error on client mqtt_89ae2309.750d5, disconnecting.
+1506984249: New connection from 172.17.0.3 on port 1883.
+1506984249: New client connected from 172.17.0.3 as mqtt_d0613d81.8b55a (c1, k60, u'admin').
+1506984257: New connection from 172.17.0.1 on port 1883.
+1506984257: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984269: Client iot_device_simulator disconnected.
+1506984288: Client mqtt_d0613d81.8b55a disconnected.
+1506984288: New connection from 172.17.0.3 on port 1883.
+1506984288: New client connected from 172.17.0.3 as mqtt_ddffb610.10a668 (c1, k60, u'admin').
+1506984360: Socket error on client mqtt_ddffb610.10a668, disconnecting.
+1506984363: New connection from 172.17.0.3 on port 1883.
+1506984363: New client connected from 172.17.0.3 as mqtt_96b3cd91.1fa88 (c1, k60, u'admin').
+1506984373: New connection from 172.17.0.1 on port 1883.
+1506984373: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984385: Client iot_device_simulator disconnected.
+1506984400: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506984409: Socket error on client mqtt_96b3cd91.1fa88, disconnecting.
+1506984413: New connection from 172.17.0.3 on port 1883.
+1506984413: New client connected from 172.17.0.3 as mqtt_a21389ff.93d068 (c1, k60, u'admin').
+1506984418: New connection from 172.17.0.1 on port 1883.
+1506984418: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984430: Client iot_device_simulator disconnected.
+1506984536: Socket error on client mqtt_a21389ff.93d068, disconnecting.
+1506984540: New connection from 172.17.0.3 on port 1883.
+1506984540: New client connected from 172.17.0.3 as mqtt_fe73e965.2e2ac8 (c1, k60, u'admin').
+1506984545: New connection from 172.17.0.1 on port 1883.
+1506984545: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984558: Client iot_device_simulator disconnected.
+1506984616: Socket error on client mqtt_fe73e965.2e2ac8, disconnecting.
+1506984620: New connection from 172.17.0.3 on port 1883.
+1506984620: New client connected from 172.17.0.3 as mqtt_da066e1a.cb8a1 (c1, k60, u'admin').
+1506984626: New connection from 172.17.0.1 on port 1883.
+1506984626: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984638: Client iot_device_simulator disconnected.
+1506984839: Socket error on client mqtt_da066e1a.cb8a1, disconnecting.
+1506984843: New connection from 172.17.0.3 on port 1883.
+1506984843: New client connected from 172.17.0.3 as mqtt_eaae64cd.70e2b8 (c1, k60, u'admin').
+1506984845: New connection from 172.17.0.1 on port 1883.
+1506984845: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984857: Client iot_device_simulator disconnected.
+1506984898: Client mqtt_eaae64cd.70e2b8 disconnected.
+1506984898: New connection from 172.17.0.3 on port 1883.
+1506984898: New client connected from 172.17.0.3 as mqtt_5e989baf.828264 (c1, k60, u'admin').
+1506984902: New connection from 172.17.0.1 on port 1883.
+1506984902: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984914: Client iot_device_simulator disconnected.
+1506984930: Socket error on client mqtt_5e989baf.828264, disconnecting.
+1506984933: New connection from 172.17.0.3 on port 1883.
+1506984933: New client connected from 172.17.0.3 as mqtt_98822835.022d28 (c1, k60, u'admin').
+1506984938: New connection from 172.17.0.1 on port 1883.
+1506984938: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506984951: Client iot_device_simulator disconnected.
+1506984994: Client mqtt_98822835.022d28 disconnected.
+1506984994: New connection from 172.17.0.3 on port 1883.
+1506984994: New client connected from 172.17.0.3 as mqtt_dee10d70.983e5 (c1, k60, u'admin').
+1506985002: New connection from 172.17.0.1 on port 1883.
+1506985002: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506985014: Client iot_device_simulator disconnected.
+1506986201: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506986463: Socket error on client mqtt_dee10d70.983e5, disconnecting.
+1506986533: New connection from 172.17.0.3 on port 1883.
+1506986533: New client connected from 172.17.0.3 as mqtt_4ce9a263.201fdc (c1, k60, u'admin').
+1506986555: New connection from 172.17.0.1 on port 1883.
+1506986555: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506986558: Socket error on client mqtt_4ce9a263.201fdc, disconnecting.
+1506986594: New connection from 172.17.0.3 on port 1883.
+1506986594: New client connected from 172.17.0.3 as mqtt_cbbc4dc4.7e5e4 (c1, k60, u'admin').
+1506986614: Socket error on client iot_device_simulator, disconnecting.
+1506986614: New connection from 172.17.0.1 on port 1883.
+1506986614: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506986707: Client iot_device_simulator disconnected.
+1506986896: Socket error on client mqtt_cbbc4dc4.7e5e4, disconnecting.
+1506986901: New connection from 172.17.0.3 on port 1883.
+1506986901: New client connected from 172.17.0.3 as mqtt_6b602c20.b58d04 (c1, k60, u'admin').
+1506986909: New connection from 172.17.0.1 on port 1883.
+1506986909: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506986912: Socket error on client mqtt_6b602c20.b58d04, disconnecting.
+1506986936: New connection from 172.17.0.3 on port 1883.
+1506986936: New client connected from 172.17.0.3 as mqtt_24b95550.4e68ea (c1, k60, u'admin').
+1506986943: Socket error on client iot_device_simulator, disconnecting.
+1506986944: New connection from 172.17.0.1 on port 1883.
+1506986944: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506986971: Client mqtt_24b95550.4e68ea disconnected.
+1506986971: New connection from 172.17.0.3 on port 1883.
+1506986971: New client connected from 172.17.0.3 as mqtt_d7b09550.3e3328 (c1, k60, u'admin').
+1506987009: Socket error on client mqtt_d7b09550.3e3328, disconnecting.
+1506987037: Client iot_device_simulator disconnected.
+1506987124: New connection from 172.17.0.3 on port 1883.
+1506987124: New client connected from 172.17.0.3 as mqtt_1254b243.5a2ece (c1, k60, u'admin').
+1506987127: New connection from 172.17.0.1 on port 1883.
+1506987127: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506987160: Socket error on client iot_device_simulator, disconnecting.
+1506987161: Socket error on client mqtt_1254b243.5a2ece, disconnecting.
+1506987165: New connection from 172.17.0.3 on port 1883.
+1506987165: New client connected from 172.17.0.3 as mqtt_a152c51f.a9b198 (c1, k60, u'admin').
+1506987167: New connection from 172.17.0.1 on port 1883.
+1506987167: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506987200: Client mqtt_a152c51f.a9b198 disconnected.
+1506987200: New connection from 172.17.0.3 on port 1883.
+1506987200: New client connected from 172.17.0.3 as mqtt_65e140a3.1a884 (c1, k60, u'admin').
+1506987260: Client iot_device_simulator disconnected.
+1506987290: New connection from 172.17.0.1 on port 1883.
+1506987290: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506987303: Socket error on client iot_device_simulator, disconnecting.
+1506987306: Socket error on client mqtt_65e140a3.1a884, disconnecting.
+1506987312: New connection from 172.17.0.3 on port 1883.
+1506987312: New client connected from 172.17.0.3 as mqtt_2edf6f46.ff7 (c1, k60, u'admin').
+1506987330: Client mqtt_2edf6f46.ff7 disconnected.
+1506987330: New connection from 172.17.0.3 on port 1883.
+1506987330: New client connected from 172.17.0.3 as mqtt_3b0ba2f3.9c6fce (c1, k60, u'admin').
+1506987482: Socket error on client mqtt_3b0ba2f3.9c6fce, disconnecting.
+1506987486: New connection from 172.17.0.3 on port 1883.
+1506987486: New client connected from 172.17.0.3 as mqtt_73a31b69.554e44 (c1, k60, u'admin').
+1506987500: New connection from 172.17.0.1 on port 1883.
+1506987500: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506987554: Socket error on client iot_device_simulator, disconnecting.
+1506987573: Client mqtt_73a31b69.554e44 disconnected.
+1506987573: New connection from 172.17.0.3 on port 1883.
+1506987573: New client connected from 172.17.0.3 as mqtt_a95d5484.431dc8 (c1, k60, u'admin').
+1506987597: New connection from 172.17.0.1 on port 1883.
+1506987597: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506987625: Client iot_device_simulator disconnected.
+1506987796: Client mqtt_a95d5484.431dc8 disconnected.
+1506987796: New connection from 172.17.0.3 on port 1883.
+1506987796: New client connected from 172.17.0.3 as mqtt_3cadabf3.63a0e4 (c1, k60, u'admin').
+1506987952: Socket error on client mqtt_3cadabf3.63a0e4, disconnecting.
+1506987956: New connection from 172.17.0.3 on port 1883.
+1506987956: New client connected from 172.17.0.3 as mqtt_eda57131.1c76f (c1, k60, u'admin').
+1506987962: New connection from 172.17.0.1 on port 1883.
+1506987962: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506987990: Client iot_device_simulator disconnected.
+1506987993: New connection from 172.17.0.1 on port 1883.
+1506987993: New client connected from 172.17.0.1 as iot_device_simulator (c1, k60, u'admin').
+1506988002: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1506988021: Client iot_device_simulator disconnected.
+1506988081: Socket error on client mqtt_eda57131.1c76f, disconnecting.
+1506988087: Error in poll: Interrupted system call.
+1506988087: mosquitto version 1.4.12 terminating
+1507265830: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1507265830: Config loaded from /mosquitto/config/mosquitto.conf.
+1507265830: Opening ipv4 listen socket on port 1883.
+1507265830: Opening ipv6 listen socket on port 1883.
+1507265836: New connection from 172.17.0.3 on port 1883.
+1507265836: New client connected from 172.17.0.3 as mqtt_21d7f9ad.226d96 (c1, k60, u'admin').
+1507267631: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1507269627: Socket error on client mqtt_21d7f9ad.226d96, disconnecting.
+1507270217: New connection from 172.17.0.3 on port 1883.
+1507270217: New client connected from 172.17.0.3 as mqtt_6a63794.cd15488 (c1, k60, u'admin').
+1507270233: Socket error on client mqtt_6a63794.cd15488, disconnecting.
+1507270267: New connection from 172.17.0.3 on port 1883.
+1507270267: New client connected from 172.17.0.3 as mqtt_5290721.62f3f8c (c1, k60, u'admin').
+1507270277: Socket error on client mqtt_5290721.62f3f8c, disconnecting.
+1507270291: New connection from 172.17.0.3 on port 1883.
+1507270291: New client connected from 172.17.0.3 as mqtt_9e1ab1d2.3507 (c1, k60, u'admin').
+1507270307: Socket error on client mqtt_9e1ab1d2.3507, disconnecting.
+1507270398: New connection from 172.17.0.3 on port 1883.
+1507270398: New client connected from 172.17.0.3 as mqtt_536bfdd4.d9c474 (c1, k60, u'admin').
+1507270506: Socket error on client mqtt_536bfdd4.d9c474, disconnecting.
+1507270916: New connection from 172.17.0.3 on port 1883.
+1507270916: New client connected from 172.17.0.3 as mqtt_4a8a2862.b632a8 (c1, k60, u'admin').
+1507270930: Client mqtt_4a8a2862.b632a8 disconnected.
+1507270930: New connection from 172.17.0.3 on port 1883.
+1507270930: New client connected from 172.17.0.3 as mqtt_66e7c48c.b1f21c (c1, k60, u'admin').
+1507270998: Socket error on client mqtt_66e7c48c.b1f21c, disconnecting.
+1507271002: New connection from 172.17.0.3 on port 1883.
+1507271002: New client connected from 172.17.0.3 as mqtt_cd4e20d0.33678 (c1, k60, u'admin').
+1507271039: Client mqtt_cd4e20d0.33678 disconnected.
+1507271039: New connection from 172.17.0.3 on port 1883.
+1507271039: New client connected from 172.17.0.3 as mqtt_f3e61e3c.90904 (c1, k60, u'admin').
+1507271046: Error in poll: Interrupted system call.
+1507271046: mosquitto version 1.4.12 terminating
+1507271053: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1507271053: Config loaded from /mosquitto/config/mosquitto.conf.
+1507271053: Opening ipv4 listen socket on port 1883.
+1507271053: Opening ipv6 listen socket on port 1883.
+1507271061: New connection from 172.17.0.3 on port 1883.
+1507271061: New client connected from 172.17.0.3 as mqtt_f3e61e3c.90904 (c1, k60, u'admin').
+1507271067: Socket error on client mqtt_f3e61e3c.90904, disconnecting.
+1507271073: New connection from 172.17.0.3 on port 1883.
+1507271073: New client connected from 172.17.0.3 as mqtt_298d69ac.a04a46 (c1, k60, u'admin').
+1507271087: Client mqtt_298d69ac.a04a46 disconnected.
